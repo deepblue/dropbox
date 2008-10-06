@@ -1,0 +1,11 @@
+= DropBox: Springnote Drag&Drop Uploader
+
+ * Author: Bryan Kang
+ * Homepage: http://myruby.net/pages/1882646 (Korean)
+
+== Dependencies
+
+ * rucola & rubycocoa
+ * oauth
+ * springnote_resources
+
